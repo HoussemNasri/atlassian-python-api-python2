@@ -5,8 +5,7 @@ Atlassian Python API wrapper
 
 What is it?
 ___________
-
-**This is a Python 2 compatible fork of [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)**
+This is a Python 2 compatible fork of `atlassian-python-api <https://github.com/atlassian-api/atlassian-python-api>`_.
 
 The **atlassian-python-api** library provides a **simple** and convenient way to interact with Atlassian products
 (such as Jira Service management, Jira Software, Confluence, Bitbucket and apps Insight, X-Ray) using Python.
